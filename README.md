@@ -1,2 +1,2 @@
-# examples
+# example
 Examples of Concourse workflows
